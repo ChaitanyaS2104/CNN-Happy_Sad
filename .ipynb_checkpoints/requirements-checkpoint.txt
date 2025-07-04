@@ -1,0 +1,8 @@
+tensorflow>=2.0
+numpy
+matplotlib
+pandas
+opencv-python
+filetype
+scikit-learn
+notebook
